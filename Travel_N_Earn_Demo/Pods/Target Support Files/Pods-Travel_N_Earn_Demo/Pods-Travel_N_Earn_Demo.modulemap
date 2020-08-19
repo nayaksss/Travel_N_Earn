@@ -1,0 +1,6 @@
+framework module Pods_Travel_N_Earn_Demo {
+  umbrella header "Pods-Travel_N_Earn_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
